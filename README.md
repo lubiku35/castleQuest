@@ -2,15 +2,7 @@
 
 # CastleQuest | 2D RPG Game 
 
-
-> **Author** | Ľuboslav Motošický, @lubiku35
->
-> **Subject** | Programming in Java
->
-> **Project Name** | CastleQuest 
-
 ## Quick Info
-
 
 Despite the fact that the entire project was maintained under the Gitlab platform, this repo will only serve as a reference to the complete project and its documentation, located on my Gitlab account.
 
